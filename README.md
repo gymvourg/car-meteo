@@ -13,6 +13,6 @@
   1) Arduino uno 
   2) car kit με 4 ρόδες
   3) αισθητήρες: πίεσης, θερμοκρασίας, υγρασίας, φωτός, υπερήχων, 
-  4) σεβοκινητήρα, breadbord, 
+  4) σεβοκινητήρα, breadboard, 
   5) GPS Module, real time clock module
   6) βάση αισθητήρα υπερήχων
